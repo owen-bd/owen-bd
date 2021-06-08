@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Owen
 - 👀 I’m interested in Data Analysis and Visualisation
-- 🌱 I’m currently learning various Machine Learning techniques.
+- 🌱 I’m currently learning various Machine Learning techniques, and how to analyse sporting event and tracking data.
 - 📫 How to reach me: @obdftbl or owendavies00@gmail.com
 
 <!---
